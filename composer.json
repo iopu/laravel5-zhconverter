@@ -1,0 +1,22 @@
+{
+    "name": "easter1021/laravel5-zhconverter",
+    "description": "Laravel 5 繁簡轉換",
+    "license": "MIT",
+    "version": "5.0.0",
+    "authors": [
+        {
+            "name": "easter1021",
+            "email": "mufasa.hsu@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "laravel/framework": "5.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Easter1021\\LaravelZhconverter\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
